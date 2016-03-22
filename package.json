@@ -1,0 +1,58 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "first time with gulp on GitTest",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-file-include": "^0.11.1",
+    "gulp-flatten": "^0.0.4",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.2.2",
+    "gulp-jshint": "^1.12.0",
+    "gulp-karma": "^0.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-svgmin": "^1.2.2",
+    "gulp-svgstore": "^5.0.5",
+    "gulp-tap": "^0.1.3",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.5",
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "jshint-stylish": "^2.1.0",
+    "karma": "^0.12.37",
+    "karma-coverage": "^0.4.2",
+    "karma-htmlfile-reporter": "^0.2.2",
+    "karma-jasmine": "^0.3.8",
+    "karma-phantomjs-launcher": "^0.2.3",
+    "karma-spec-reporter": "^0.0.19",
+    "lazypipe": "^0.2.4",
+    "node-fs": "^0.1.7",
+    "phantomjs": "^1.9.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyjkane/GitTest.git"
+  },
+  "keywords": [
+    "keywords",
+    "i",
+    "added"
+  ],
+  "author": "bobby kane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbyjkane/GitTest/issues"
+  },
+  "homepage": "https://github.com/bobbyjkane/GitTest#readme"
+}
